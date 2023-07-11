@@ -7,4 +7,5 @@ This is one of the example how one can increase his/her views on playlist/album.
 - Setting Python Envirnoment.
 1. Install Python 3.7 or above
 2. Install Pycharm or any ide of your choice.
-3. Install Appium library using this command ```pip install Appium-Python-Client```
+3. Install python module using this command ```pip install requirements.txt```
+4. 
