@@ -35,9 +35,19 @@ Everything is install and we are good to go now.
 - Verify Device Connection: Open a terminal or command prompt and run the following command to verify that your device is detected by the computer: ```adb devices```
 
 ## Features
+- it will run automation in parrallel. will run automation on each device at the same time.
 - Random play time between minimum and maximum time assigned in config.settings.
 - Randomly like song.
 - Randomly Subscribe to Artist of the song.
 - You can assign no of plays. so let say you assign 5 and there are 4 songs in album. what script will do is after playing 4 songs it will play first song again.
 
 ## Demo
+- watch demo of its running
+  ![alt text](https://www.youtube.com/shorts/u0UE01w_2F8 "Demo Video")
+
+## How to run
+
+- Download this repo to your local pc and open it in pycharm.
+- Run main.py file and it will start opening app in all devices at once and start playing playlist.
+
++ Note: All devices must be unlocked. to be able to run this.
