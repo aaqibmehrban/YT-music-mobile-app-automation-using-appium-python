@@ -1,0 +1,5 @@
+minSongPlayTime(sec)=5
+maxSongPlayTime(sec)=15
+likeSong(0-on 1-Off 2-Random)=1
+subscribeArtist(0-on 1-Off 2-Random)=1
+totalSongPlays=5
