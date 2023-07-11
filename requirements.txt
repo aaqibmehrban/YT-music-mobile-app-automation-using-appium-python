@@ -1,0 +1,4 @@
+Appium-Python-Client~=2.11.1
+selenium~=4.3.0
+pyfiglet~=0.8.post1
+colorama~=0.4.6
