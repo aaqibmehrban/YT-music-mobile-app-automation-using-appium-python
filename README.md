@@ -42,8 +42,7 @@ Everything is install and we are good to go now.
 - You can assign no of plays. so let say you assign 5 and there are 4 songs in album. what script will do is after playing 4 songs it will play first song again.
 
 ## Demo
-- watch demo of its running
-  ![alt text](https://www.youtube.com/shorts/u0UE01w_2F8 "Demo Video")
+- watch demo of its running [Youtube](https://www.youtube.com/shorts/u0UE01w_2F8) .
 
 ## How to run
 
