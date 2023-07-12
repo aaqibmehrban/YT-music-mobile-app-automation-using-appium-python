@@ -260,12 +260,6 @@ def returnFiletoList(filename):
     return LinesToList
 
 
-def is_today_05_07_2023():
-    """Checks if today's date is 29-06-2023."""
-    today = datetime.datetime.today()
-    return today.day == 10 and today.month == 7 and today.year == 2023
-
-
 if __name__ == "__main__":
     with open('config.settings', 'r') as config:
         file = config.read().split('\n')
@@ -297,11 +291,6 @@ if __name__ == "__main__":
     """)
 
     print("\n\n")
-    if is_today_05_07_2023():
-        print("[Info] Script Expired")
-        sys.exit()
-    else:
-        pass
     print("Choose Options Below:")
     print("1- Play Playlist\n"
           "2- Play Album")
